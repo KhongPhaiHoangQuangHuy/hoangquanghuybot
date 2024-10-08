@@ -57,7 +57,7 @@ class OwnerOnly(commands.Cog):
             await self.send_no_permission_message(
                 ctx,
                 "You do not have permission to use this command.",
-                "https://media.discordapp.net/attachments/1274184520765018122/1279035344955637821/Flag_of_Vietnam.png?ex=66d2f9fd&is=66d1a87d&hm=155f231ad87553eae7dc28484bd5f2da10763dcc31419b80d3c51a3f96420cef&=&format=webp&quality=lossless&width=702&height=468"
+                "https://i.ibb.co/T2MLWsh/Slain.png"
             )
         else:
             # Nếu có lỗi khác, bạn có thể xử lý ở đây hoặc bỏ qua
